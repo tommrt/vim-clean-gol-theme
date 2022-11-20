@@ -31,6 +31,10 @@ hi vimOption guifg=#18874b
 hi vimCommentTitle guifg=#18874b
 hi vimHiAttrib guifg=#18874b
 
+" Javascript
+hi javaScriptIdentifier guifg=#18874b
+hi javaFunction guifg=#18874b
+
 " Typescript
 hi typescriptCall guifg=#000000
 hi typescriptVariable guifg=#18874b
