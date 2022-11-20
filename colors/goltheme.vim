@@ -64,6 +64,10 @@ hi cssAtKeyword guifg=#18874b
 hi sassAmpersand guifg=#7eba48
 hi cssPseudoClassId guifg=#7eba48
 
+" Coc Explorer
+hi CocFloating guibg=#dbf3cd guifg=#18874b
+hi CocErrorFloat guibg=#cc00000 guifg=#ffffff
+
 " Interface Elements
 hi StatusLine   guifg=#ffffff   guibg=#7eba48 gui=bold
 hi StatusLineNC guifg=#000000   guibg=#eeeeee " not current window
