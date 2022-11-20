@@ -44,8 +44,8 @@ hi typescriptArrowFunc guifg=#18874b
 hi typescriptNull guifg=#f68d2d
 hi typescriptBoolean guifg=#f68d2d
 hi typescriptGlobal guifg=#f68d2d
-hi typescriptTypeReference guifg=#7eba48
-hi typescriptPredefinedType guifg=#7eba48
+hi typescriptTypeReference guifg=#18874b
+hi typescriptPredefinedType guifg=#18874b
 hi typescriptBOMHistoryProp guifg=#000000
 hi typescriptOperator guifg=#7eba48
 hi typescriptFuncComma guifg=#000000
@@ -81,7 +81,7 @@ hi String       guifg=#F68D2D
 hi Number       guifg=#f68d2d                   gui=bold
 hi Statement    guifg=#18874b                   gui=bold " i.e. return
 hi Comment      guifg=#18874b   guibg=#dbf3cd   gui=italic
-hi Type         guifg=#F68D2D                   gui=bold
+hi Type         guifg=#18874b                   gui=bold
 hi Error        guifg=#ffffff   guibg=#cc0000
 hi Keyword guifg=#18874b guibg=NONE " i.e. interface
 hi Tooltip guifg=#ffffff guibg=#7eba48
