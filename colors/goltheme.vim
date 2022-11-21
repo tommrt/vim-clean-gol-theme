@@ -63,6 +63,7 @@ hi sassInclude guifg=#18874b
 hi cssAtKeyword guifg=#18874b
 hi sassAmpersand guifg=#7eba48
 hi cssPseudoClassId guifg=#7eba48
+hi cssAtRule guifg=#18874b
 
 " Coc Explorer
 hi CocFloating guibg=#dbf3cd guifg=#18874b
