@@ -15,7 +15,7 @@ let g:colors_name = "goltheme"
 " dark green #18874b
 " orange #F68D2D
 " light green #7eba48
-" red #cc00000
+" red #cc0000
 
 " Global
 hi Normal       guifg=#000000   guibg=NONE
@@ -25,7 +25,7 @@ hi Search    guifg=#000000   guibg=#cccccc " Search not on cursor
 hi CurSearch guifg=#ffffff guibg=#f68d2d " Search when cursor is on word
 
 hi SpecialChar guifg=#18874b guibg=NONE
-hi Conceal guibg=NONE guifg=#cc00000
+hi Conceal guibg=NONE guifg=#cc0000
 
 " Vim
 hi vimOption guifg=#18874b
