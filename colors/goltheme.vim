@@ -25,6 +25,7 @@ hi Search    guifg=#000000   guibg=#cccccc " Search not on cursor
 hi CurSearch guifg=#ffffff guibg=#f68d2d " Search when cursor is on word
 
 hi SpecialChar guifg=#18874b guibg=NONE
+hi Conceal guibg=#7eba48 guifg=#ffffff
 
 " Vim
 hi vimOption guifg=#18874b
@@ -68,6 +69,7 @@ hi cssAtRule guifg=#18874b
 " Coc Explorer
 hi CocFloating guibg=#dbf3cd guifg=#18874b
 hi CocErrorFloat guibg=#cc00000 guifg=#ffffff
+hi CocHintFloat guibg=#7eba48 guifg=#ffffff
 
 " Interface Elements
 hi StatusLine   guifg=#ffffff   guibg=#7eba48 gui=bold
