@@ -25,7 +25,7 @@ hi Search    guifg=#000000   guibg=#cccccc " Search not on cursor
 hi CurSearch guifg=#ffffff guibg=#f68d2d " Search when cursor is on word
 
 hi SpecialChar guifg=#18874b guibg=NONE
-hi Conceal guibg=#7eba48 guifg=#ffffff
+hi Conceal guibg=NONE guifg=#cc00000
 
 " Vim
 hi vimOption guifg=#18874b
