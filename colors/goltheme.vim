@@ -29,7 +29,7 @@ hi Conceal guibg=NONE guifg=#cc0000
 " Markdown
 hi Title guifg=#18874b guibg=NONE
 hi markdownHeadingRule guifg=#7eba48 guibg=NONE
-hi markdownCodeBlock guifg=#18874b guibg=NONE
+hi markdownCodeBlock guifg=#000000 guibg=NONE
 
 " Vim
 hi vimOption guifg=#18874b
