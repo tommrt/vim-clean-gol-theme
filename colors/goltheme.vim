@@ -20,7 +20,8 @@ let g:colors_name = "goltheme"
 " Global
 hi Normal       guifg=#000000   guibg=NONE
 hi NonText      guifg=#18874b   guibg=#eeeeee " i.e. off the screen
-" Search
+hi Title guifg=#18874b guibg=NONE
+hi markdownHeadingRule guifg=#7eba48 guibg=NONE
 hi Search    guifg=#000000   guibg=#cccccc " Search not on cursor
 hi CurSearch guifg=#ffffff guibg=#f68d2d " Search when cursor is on word
 
