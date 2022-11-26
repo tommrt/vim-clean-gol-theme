@@ -22,7 +22,11 @@ hi Normal       guifg=#000000   guibg=NONE
 hi NonText      guifg=#18874b   guibg=#eeeeee " i.e. off the screen
 hi Search    guifg=#000000   guibg=#cccccc " Search not on cursor
 hi CurSearch guifg=#ffffff guibg=#f68d2d " Search when cursor is on word
-
+hi Constant guifg=#18874b guibg=NONE
+hi Character guifg=#18874b guibg=NONE
+hi Boolean guifg=#18874b guibg=NONE
+hi Number guifg=#18874b guibg=NONE
+hi Float guifg=#18874b guibg=NONE
 hi SpecialChar guifg=#18874b guibg=NONE
 hi Conceal guibg=NONE guifg=#cc0000
 
